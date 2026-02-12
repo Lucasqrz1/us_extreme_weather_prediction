@@ -42,9 +42,10 @@ The project consists in 4 phases:
 
 ## Notebooks
 
-[Data Exploration](https://github.com/Lucasqrz1/us_extreme_weather_prediction/blob/main/notebooks/01_data_exploration.ipynb)
+- [Data Exploration](https://github.com/Lucasqrz1/us_extreme_weather_prediction/blob/main/notebooks/01_data_exploration.ipynb)
 
 ## Images
 
-
-![Extreme Weather Events in the US Over Time](image.png)
+![Top 10 Most Frequent Event Types](/images/01_events_trend.png)
+---
+![Extreme Weather Events in the US Over Time](/images/02_top_event_types.png)
