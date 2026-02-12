@@ -1,6 +1,6 @@
 # Extreme Climate Events Analysis in United States
 
-Predictive analysis of extreme weather events trends in the US using NOAA data and machine learning
+### Predictive analysis of extreme weather events trends in the US using NOAA data and machine learning.
 
 This analysis covers records of the United States NOAA (National Oceanic and Atmospheric Administration) using, from a broader database, a selection of the years 2000 up to 2024.
 
@@ -39,3 +39,11 @@ The project consists in 4 phases:
     - Trend charts
     - Forecasts for the next 5 years
     - Tools: Python (Plotly) or Tableau / Power BI
+
+## Notebooks
+
+[Data Exploration](https://github.com/Lucasqrz1/us_extreme_weather_prediction/blob/main/notebooks/01_data_exploration.ipynb)
+
+## Images
+
+
