@@ -47,3 +47,4 @@ The project consists in 4 phases:
 ## Images
 
 
+![Extreme Weather Events in the US Over Time](image.png)
