@@ -211,6 +211,7 @@ __marimo__/
 data/raw/
 data/processed/
 *.csv
+data/processed/weather.db
 
 # Jupyter
 .ipynb_checkpoints/
