@@ -17,6 +17,8 @@ The project consists in 4 phases:
     
 2. Feature Engineering
 
+    Feature engineering is the process of using domain knowledge to transform raw data into informative features (variables) that make machine learning algorithms work more effectively.
+
     - Create derived variables:
         - Annual frequency by state
         - Moving average of events
