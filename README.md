@@ -26,17 +26,17 @@ Raw CSV (NOAA)  →  SQLite database  →  SQL queries  →  Pandas  →  Model 
 
 ## Project Phases
 
-**1. Exploratory Data Analysis** (Finished)
+**1. Exploratory Data Analysis** ✅
 - Frequency trends by event type
 - Geographic analysis (most affected states)
 - Temporal analysis (decades, years, months)
 - Correlation between event types
 
-**2. Feature Engineering**
-- Annual frequency by state
-- Moving average of events
-- Seasonality index
-- Severity index (based on damages and deaths)
+**2. Feature Engineering** ✅
+- Annual event frequency per state
+- 3-year rolling average of events
+- Seasonality (month, quarter, peak season flag)
+- Severity index — normalized combination of economic damage and fatalities
 
 **3. Predictive Modeling**
 - Linear Regression (baseline) — predict event frequency for next year
