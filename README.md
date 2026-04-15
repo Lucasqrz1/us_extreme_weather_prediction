@@ -38,7 +38,7 @@ Raw CSV (NOAA)  →  SQLite database  →  SQL queries  →  Pandas  →  Model 
 - Seasonality (month, quarter, peak season flag)
 - Severity index — normalized combination of economic damage and fatalities
 
-**3. Predictive Modeling**
+**3. Predictive Modeling** ✅
 - Linear Regression (baseline) — predict event frequency for next year
 - Random Forest / XGBoost — predict probability of extreme events by region
 - Evaluation: RMSE, MAE, R²
