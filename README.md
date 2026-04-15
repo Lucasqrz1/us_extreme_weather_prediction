@@ -54,9 +54,10 @@ Raw CSV (NOAA)  →  SQLite database  →  SQL queries  →  Pandas  →  Model 
 
 | Notebook | Description |
 |---|---|
-| [00 — Database Setup](notebooks/00_database_setup.py) | Loads CSVs into SQLite database |
-| [01 — Data Exploration](https://github.com/Lucasqrz1/us_extreme_weather_prediction/blob/main/notebooks/01_data_exploration.ipynb) | EDA, trends, geographic and temporal analysis |
+| [00 — Database Setup](notebooks/00_database_setup.ipynb) | Loads CSVs into SQLite database |
+| [01 — Data Exploration](notebooks/01_data_exploration.ipynb) | EDA, trends, geographic and temporal analysis |
 | [02 — Feature Engineering](notebooks/02_feature_engineering.ipynb) | Feature creation and transformation |
+| [03 — Predictive Modeling](notebooks/03_predictive_modeling.ipynb) | Linear Regression, Random Forest, and XGBoost model training and evaluation |
 
 ---
 
