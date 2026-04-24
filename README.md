@@ -43,7 +43,7 @@ Raw CSV (NOAA)  →  SQLite database  →  SQL queries  →  Pandas  →  Model 
 - Random Forest / XGBoost — predict probability of extreme events by region
 - Evaluation: RMSE, MAE, R²
 
-**4. Dashboard**
+**4. Dashboard** ✅
 - Interactive event map
 - Trend charts
 - Forecasts for the next 5 years
