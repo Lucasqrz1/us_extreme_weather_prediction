@@ -1,6 +1,6 @@
-# Extreme Climate Events Analysis in United States
+# Extreme Climate Events Analysis in United States (Mainland)
 
-Predictive analysis of extreme weather events trends in the US using NOAA data and machine learning.
+Predictive analysis of extreme weather events trends in the US (Mainland states only) using NOAA data and machine learning.
 
 This analysis covers records from NOAA (National Oceanic and Atmospheric Administration) for the years 2000–2024.
 
@@ -68,3 +68,11 @@ Raw CSV (NOAA)  →  SQLite database  →  SQL queries  →  Pandas  →  Model 
 ---
 
 ![Top 10 Most Frequent Event Types](/images/02_top_event_types.png)
+
+## Next Steps
+
+- Evaluate possibility of only analising mainland states
+- Understand noise caused by innacurate information on charts (e.g. American Samoa)
+- Review datasets that are being used throughout different notebooks and if they're being affected by innacurate info
+- Create interactive dashboards with Plotly
+- Evaluate possibility of using AI to support project development (e.g. Ollama)
